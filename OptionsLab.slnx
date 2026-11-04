@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OptionsLab.Tests/OptionsLab.Tests.csproj" />
+  <Project Path="OptionsLab/OptionsLab.csproj" />
+</Solution>
