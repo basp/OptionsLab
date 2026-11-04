@@ -1,6 +1,6 @@
 # OptionsLab
 
-A .NET 10 ASP.NET Core sample for exploring the .NET options framework: configuration binding, validation, post-configuration, named options, options lifetimes, and live configuration reload. It uses only safe example values and needs no credentials.
+A .NET 10 ASP.NET Core sample for exploring the **.NET options framework**: configuration binding, validation, post-configuration, named options, options lifetimes, and live configuration reload. It uses only safe example values and needs no credentials.
 
 ## Features
 
