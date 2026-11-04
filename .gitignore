@@ -27,8 +27,14 @@ mono_crash.*
 [Dd]ebugPublic/x64/
 [Rr]elease/x64/
 [Rr]eleases/x64/
-bin/x64/
-obj/x64/
+
+obj/Debug/
+bin/Debug/
+
+OptionsLab/bin/
+OptionsLab/obj/
+OptionsLab.Tests/bin/
+OptionsLab.Tests/obj/
 
 [Dd]ebug/x86/
 [Dd]ebugPublic/x86/
